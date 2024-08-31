@@ -97,6 +97,12 @@ section{
   display: flex;
   margin: auto;
   margin-top: 10px;
+  transition: 2s;
+}
+#btn-2D:hover{
+  background: linear-gradient(90deg, #3c0081 30%, #36007e 60%, #310070 70%, #3f00a3 100%);
+  color: rgb(202, 202, 202);
+  transition: 2s;
 }
 footer{
   bottom: 0;
